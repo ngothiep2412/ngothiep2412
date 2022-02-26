@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: FPT University (FPTU)
 
-- 🌱 I’m currently learning **FULLSTACK**. 
+- 🌱 I’m currently learning **BACK-END AND FRONT END**. 
 - 🌱 I’m looking forward to contribute to Open Source Projects.
 
 ## 📫 How to reach me:
