@@ -1,4 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Ngô Thiệp</h1>
+<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="427"/>
+
+<!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NgoThiep2412" alt="NgoThiep2412" /> <img src="https://badges.pufler.dev/repos/NgoThiep2412" alt="NgoThiep2412" /> </p>
