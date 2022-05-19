@@ -1,14 +1,11 @@
 <h1 align="center">Hey there 👋, I'm Ngô Thiệp</h1>
-<img align="left" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="427"/>
-
-<!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NgoThiep2412" alt="NgoThiep2412" /> <img src="https://badges.pufler.dev/repos/NgoThiep2412" alt="NgoThiep2412" /> </p>
 
 - ✍ I'm a student of: FPT University (FPTU)
 
-- 🌱 I’m currently learning **BACK-END AND FRONT END**. 
+- 🌱 I’m currently learning **FULLSTACK**. 
 - 🌱 I’m looking forward to contribute to Open Source Projects.
 
 ## 📫 How to reach me:
@@ -41,9 +38,21 @@
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NgoThiep2412" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash" alt="GitHub Stats" /> <br/><br/>
   
 </div>
 
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgoThiep2412&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="NgoThiep2412" width="100%"/>
 
-
+  <img src="https://github-readme-stats.vercel.app/api?username=NgoThiep2412&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="NgoThiep2412" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
