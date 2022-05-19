@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Ngô Thiệp</h1>
-<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="427"/>
+<img align="left" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="427"/>
 
 <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
