@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Ngô Thiệp</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=NgoThiep2412" alt="NgoThiep2412" /> <img src="https://badges.pufler.dev/repos/NgoThiep2412" alt="NgoThiep2412" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ngothiep2412" alt="ngothiep2412" /> <img src="https://badges.pufler.dev/repos/ngothiep2412" alt="ngothiep2412" /> </p>
 
 - ✍ I'm a student of: FPT University (FPTU)
 
@@ -13,7 +13,7 @@
   <a href="https://www.facebook.com/profile.php?id=100008885110250" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/NgoThiep2412" alt="Github">
+  <a href="https://github.com/ngothiep2412" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
 </p>
@@ -45,9 +45,9 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgoThiep2412&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="NgoThiep2412" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngothiep2412&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="ngothiep2412" width="100%"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=NgoThiep2412&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="NgoThiep2412" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ngothiep2412&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="ngothiep2412" width="100%"/>
     </td>
     <td>
       <p align="center"> 
