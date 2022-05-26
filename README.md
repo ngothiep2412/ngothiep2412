@@ -7,8 +7,9 @@
 
 - 🌱 I’m currently learning **FRONT-END**. But in the future I want to learn **FULL-STACK**. 
 - 🌱 I’m looking forward to contribute to Open Source Projects.
-
-<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" />
+<p align="center">
+<img align="center" height="270px" alt="GIF" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" />
+  </p>
 ## 📫 How to reach me:
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100008885110250" alt="Facebook">
@@ -23,7 +24,6 @@
 
 ### Language :
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
