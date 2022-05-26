@@ -18,16 +18,36 @@
   </a> 
 </p>
 
-## Skills:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-</p>
+## ⚡ Technologies
+
+### Language :
+![Java](https://img.shields.io/badge/-java-orange?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+### Databases :
+![MySQL (comming soon)](https://img.shields.io/badge/-MySQL-red?style=flat-square&logo=mysql)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+### Libraries & Framework :
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
+### DevOps :
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+### Tools :
+![NPM](https://img.shields.io/badge/npm-red.svg?logo=npm&logoColor=white)
+
+### Operating Systems :
+![Windows](https://img.shields.io/badge/Windows-blue.svg?logo=windows&logoColor=white)
+![Ubuntu (comming soon)](https://img.shields.io/badge/Ubuntu-orange.svg?logo=ubuntu&logoColor=white)
+
+<br>
 <h2>👀 My github Stats</h2>
 
 <div>  
@@ -47,7 +67,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+       <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" />
       </p>
     </td>
   </tr>
