@@ -34,6 +34,7 @@
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngothiep2412" alt="GitHub Stats" /> <br/><br/>
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ngothiep2412&theme=neon-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 </div>
 
