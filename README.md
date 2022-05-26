@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **FRONT-END**. But in the future I want to learn **FULL-STACK**. 
 - 🌱 I’m looking forward to contribute to Open Source Projects.
 
+<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" />
 ## 📫 How to reach me:
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100008885110250" alt="Facebook">
@@ -21,16 +22,17 @@
 ## ⚡ Technologies
 
 ### Language :
-![Java](https://img.shields.io/badge/-java-orange?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ### Databases :
-![MySQL (comming soon)](https://img.shields.io/badge/-MySQL-red?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 ### Libraries & Framework :
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -45,7 +47,6 @@
 
 ### Operating Systems :
 ![Windows](https://img.shields.io/badge/Windows-blue.svg?logo=windows&logoColor=white)
-![Ubuntu (comming soon)](https://img.shields.io/badge/Ubuntu-orange.svg?logo=ubuntu&logoColor=white)
 
 <br>
 <h2>👀 My github Stats</h2>
@@ -64,11 +65,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngothiep2412&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="ngothiep2412" width="100%"/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=ngothiep2412&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="ngothiep2412" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-       <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" />
-      </p>
     </td>
   </tr>
 </table>
