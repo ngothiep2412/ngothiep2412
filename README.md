@@ -40,14 +40,14 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ### DevOps :
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Tools :
-![NPM](https://img.shields.io/badge/npm-red.svg?logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ### Operating Systems :
-![Windows](https://img.shields.io/badge/Windows-blue.svg?logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <br>
 <h2>👀 My github Stats</h2>
