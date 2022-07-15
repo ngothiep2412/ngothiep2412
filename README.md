@@ -7,6 +7,7 @@
 
 - 🌱 I’m currently learning **FRONT-END**. But in the future I want to learn **FULL-STACK**. 
 - 🌱 I’m looking forward to contribute to Open Source Projects.
+- 🌱 Happy Life, Happy Code, Happy Money.
 <p align="center">
 <img align="center" height="270px" alt="GIF" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" />
   </p>
