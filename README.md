@@ -1,17 +1,34 @@
-<h1 align="center">Hey there 👋, I'm Ngô Thiệp</h1>
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A passionate developer from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ngothiep2412" alt="ngothiep2412" /> <img src="https://badges.pufler.dev/repos/ngothiep2412" alt="ngothiep2412" /> </p>
 
-- ✍ I'm a student of: FPT University (FPTU)
+# 👋 Hi, I'm Ngô Thiệp! <a href="https://emoji.gg/emoji/2544-luffy-grin"><img src="https://cdn3.emoji.gg/emojis/2544-luffy-grin.gif" width="64px" height="64px" alt="Luffy_grin"></a>
+<img src="https://komarev.com/ghpvc/?username=ngothiep2412" alt="ngothiep2412" /> 
+- 🌱 I’m currently learning **FRONT-END**. But in the future I want to learn **FULL-STACK**.</br>
+- 🌱 I’m looking forward to contribute to Open Source Projects.</br>
+- 🌱 Happy Life, Happy Code, Happy Money.</br>
 
-- 🌱 I’m currently learning **FRONT-END**. But in the future I want to learn **FULL-STACK**. 
-- 🌱 I’m looking forward to contribute to Open Source Projects.
-- 🌱 Happy Life, Happy Code, Happy Money.
-<p align="center">
-<img align="center" height="270px" alt="GIF" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" />
-  </p>
-  
+
+```typescript
+class Ngo_Thiep  {
+  major: string; school: string; pronouns:string[]; hobbies: string[]; 
+  constructor() {
+    this.major = "Software Engineering";
+    this.school =  "FPT University (FPTU) 🦊";
+    this.pronouns =  ["he/him"];
+    this.hobbies = ["soccer", "programming", "music", "Youtube"]
+  }
+}
+
+class Skills extends Ngo_Thiep {
+  languages: string[]; frameworks: string[]; frontend: string[]; backend: string[]; other: string[]
+  constructor() {
+    super();
+    this.languages = ["Javascript", "SQL", "C", "Java"];
+    this.frameworks = ["TailwindCSS"];
+    this.frontend = ["React", "HTML/CSS", "Redux"];
+    this.backend = ["Node", "MySQL", "MS SQL Server","Firebase"];
+    this.other = ["Git/Github", "Agile", "npm", "Figma"]
+  }
+}
+```
 ## 📫 How to reach me:
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100008885110250" alt="Facebook">
@@ -22,36 +39,7 @@
   </a> 
 </p>
 
-## ⚡ Technologies
-
-### Language :
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-### Databases :
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-### Libraries & Framework :
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-### DevOps :
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### Tools :
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-### Operating Systems :
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-<br>
-<h2>👀 My github Stats</h2>
+<h2>📈  My github Stats</h2>
 
 <div>  
   <p align="center">
