@@ -23,7 +23,7 @@ class Skills extends Ngo_Thiep {
     this.languages = ["Javascript", "SQL", "C", "Java"];
     this.frameworks = ["TailwindCSS"];
     this.frontend = ["React", "HTML/CSS", "Redux"];
-    this.backend = ["Node", "MySQL", "MS SQL Server","Firebase"];
+    this.backend = ["Node (comming soon)", "MySQL", "MS SQL Server","Firebase"];
     this.other = ["Git/Github", "Agile", "npm", "Figma"]
   }
 }
