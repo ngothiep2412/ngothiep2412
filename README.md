@@ -28,6 +28,10 @@ class Skills extends Ngo_Thiep {
   }
 }
 ```
+### Todo in 2023
+- [ ] Learn Flutter
+- [ ] Get a certificate AZ-900
+- Updating .....
 ## 📫 How to reach me:
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100008885110250" alt="Facebook">
