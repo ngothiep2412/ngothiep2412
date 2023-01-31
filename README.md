@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Ngô Thiệp! <a href="https://emoji.gg/emoji/2544-luffy-grin"><img src="https://cdn3.emoji.gg/emojis/2544-luffy-grin.gif" width="64px" height="64px" alt="Luffy_grin"></a>
+# 👋 Hi, I'm Ngô Thiệp! <a href="https://emoji.gg/emoji/2586-gokuwaving"><img src="https://cdn3.emoji.gg/emojis/2586-gokuwaving.png" width="64px" height="64px" alt="GokuWaving"></a>
 <img src="https://komarev.com/ghpvc/?username=ngothiep2412" alt="ngothiep2412" /> 
 - 🌱 I’m currently learning **FRONT-END**. But in the future I want to learn **FULL-STACK**.</br>
 - 🌱 Happy Life, Happy Code, Happy Money.</br>
