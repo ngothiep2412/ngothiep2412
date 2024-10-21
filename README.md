@@ -20,18 +20,18 @@ class Skills extends Ngo_Thiep {
   languages: string[]; frameworks: string[]; frontend: string[]; backend: string[]; other: string[]
   constructor() {
     super();
-    this.languages = ["Javascript", "SQL", "C", "Java"];
+    this.languages = ["Javascript", "SQL", "Java"];
     this.frameworks = ["TailwindCSS"];
     this.frontend = ["React", "HTML/CSS", "Redux"];
     this.backend = ["NodeJS", "MySQL", "MS SQL Server","Firebase", "MongoDB"];
-    this.mobile = ["Flutter", "React-native"];
+    this.mobile = ["Flutter", "React-native", "Kotlin"];
     this.other = ["Git/Github", "Agile", "npm", "Figma"]
   }
 }
 ```
-### Todo in 2023
-- [ ] Learn Flutter
-- [ ] Get a certificate AZ-900
+### Todo in 2024
+- [ ] Learn Flutter (Bloc, Provider for state management)
+- [ ] Clean architecture
 - Updating .....
 ## 📫 How to reach me:
 <p align="center">
