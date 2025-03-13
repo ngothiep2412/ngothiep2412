@@ -3,6 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=ngothiep2412" alt="ngothiep2412" /> 
 - 🌱 I’m currently learning *MOBILE*.</br>
 - 🌱 Happy Life, Happy Code, Happy Money.</br>
+- 🌱 In the future: *Fullstack Mobile*.</br>
 </br>
 
 ```typescript
