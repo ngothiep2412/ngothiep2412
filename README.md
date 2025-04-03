@@ -33,6 +33,7 @@ class Skills extends Ngo_Thiep {
 ### Todo in 2025
 - [ ] Learn KMP, Jetpack Compose, and advanced Kotlin knowledge
 - [ ] Java, Kotlin Spring Boot (BE)
+- [ ] N8N, Coze Bot Chat, using with AI to improve work productivity.
     
 - Updating .....
 ## 📫 How to reach me:
