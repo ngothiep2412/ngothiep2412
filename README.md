@@ -1,9 +1,8 @@
 
 # 👋 Hi, I'm Ngô Thiệp! <a href="https://emoji.gg/emoji/2586-gokuwaving"><img src="https://cdn3.emoji.gg/emojis/2586-gokuwaving.png" width="64px" height="64px" alt="GokuWaving"></a>
 <img src="https://komarev.com/ghpvc/?username=ngothiep2412" alt="ngothiep2412" /> 
-- 🌱 I’m currently learning *MOBILE*.</br>
+- 🌱 I’m currently learning *Back-end*.</br>
 - 🌱 Happy Life, Happy Code, Happy Money.</br>
-- 🌱 In the future: *Fullstack Mobile*.</br>
 </br>
 
 ```typescript
@@ -13,7 +12,7 @@ class Ngo_Thiep  {
     this.major = "Software Engineering";
     this.school =  "FPT University (FPTU) 🦊";
     this.pronouns =  ["he/him"];
-    this.hobbies = ["soccer", "programming", "music", "Youtube"]
+    this.hobbies = ["soccer", "programming", "music", "film"]
   }
 }
 
@@ -21,12 +20,9 @@ class Skills extends Ngo_Thiep {
   languages: string[]; frameworks: string[]; frontend: string[]; backend: string[]; other: string[]
   constructor() {
     super();
-    this.languages = ["Javascript", "SQL", "Java"];
-    this.frameworks = ["TailwindCSS"];
-    this.frontend = ["React", "HTML/CSS", "Redux"];
-    this.backend = ["NodeJS", "MySQL", "MS SQL Server","Firebase", "MongoDB"];
-    this.mobile = ["Flutter", "React-native", "Kotlin"];
-    this.other = ["Git/Github", "Agile", "npm", "Figma"]
+    this.backend = ["Golang", "Java"];
+    this.mobile = ["Flutter", "Kotlin"];
+    this.other = ["Git/Github/Gitlab", "Agile", "Figma", "Cursor", "Windsurf", "N8N", "Coze"]
   }
 }
 ```
